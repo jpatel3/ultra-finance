@@ -1,0 +1,3 @@
+*.pyc
+ultrafinance.egg-info/
+build/
